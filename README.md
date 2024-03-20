@@ -34,9 +34,5 @@
         <h2>Contributing</h2>
         <p>Contributions to <strong>py_eye</strong> are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.</p>
     </section>
-    <section>
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-    </section>
 </body>
 </html>
